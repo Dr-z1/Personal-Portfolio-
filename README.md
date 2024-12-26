@@ -1,9 +1,3 @@
-# **Personal-Portfolio**
-
-
-
-
-
 # **Personal-Portfolio Page Project**
 
 ## **Project Overview**
